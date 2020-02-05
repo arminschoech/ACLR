@@ -1,0 +1,17 @@
+*.pyc
+*.txt
+.*.swp
+*.JPG
+test*
+*.bgen
+*.csv
+*.sumstats
+*.log
+*.bin
+*.tab
+cpp_subroutine/*.o
+cpp_subroutine/ld_mat_calc
+cpp_subroutine/approxld
+*.sh
+*.gz
+*.sh
